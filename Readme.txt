@@ -1,0 +1,1 @@
+Esto es una aplicación de java muy sencillita, escrita con un código bastante rudimentario que hice en el ciclo.
